@@ -39,4 +39,4 @@ This project is a simulation of a university, it includes all the features that 
 
 ## Credits
 
-This project was developed by [Jian Elián Betancourt](https://github.com/idfc-jian)
+This project was developed by [Jian Elián Betancourt](https://github.com/idfc-jian).
